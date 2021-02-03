@@ -81,6 +81,7 @@ Ref: https://stackoverflow.com/questions/7244321/how-do-i-update-a-github-forked
 Clone only a branch
 ```git
 git clone --single-branch --branch <branchname> <remote-repo>
+```
 Or clone the whole repo
 ```git
 git clone <url>
