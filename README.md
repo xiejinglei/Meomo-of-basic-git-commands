@@ -76,3 +76,21 @@ other branch:
 git rebase upstream/master
 ```
 Ref: https://stackoverflow.com/questions/7244321/how-do-i-update-a-github-forked-repository
+
+## Manipulating a branch
+Clone only a branch
+```git
+git clone --single-branch --branch <branchname> <remote-repo>
+Or clone the whole repo
+```git
+git clone <url>
+```
+List branches
+```git
+git branch -a 
+```
+Checkout the branch
+```git
+git checkout <branchname>
+```
+```
