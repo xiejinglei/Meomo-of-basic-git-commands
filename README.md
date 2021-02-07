@@ -75,6 +75,11 @@ other branch:
 ```git
 git rebase upstream/master
 ```
+Push / force push
+```git
+ git push -f origin master
+```
+
 Ref: https://stackoverflow.com/questions/7244321/how-do-i-update-a-github-forked-repository
 
 ## Cleanup a forked branch
