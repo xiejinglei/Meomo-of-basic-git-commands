@@ -110,3 +110,5 @@ Checkout the branch
 git checkout <branchname>
 ```
 
+## Revert a commit
+https://opensource.com/article/18/6/git-reset-revert-rebase-commands
